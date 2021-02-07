@@ -29,7 +29,7 @@
    [👉시연 바로가기](#)
 ## 2.3. 세미 프로젝트  
 - 전자제품 쇼핑몰 (협업)  
-   [👉깃허브 바로가기](https://github.com/dilution92/FineApple/tree/main/Fineapple-final)  
+   [👉깃허브 바로가기](https://github.com/Jenn-tech/FineApple)  
  [👉티스토리 바로가기](https://wogus789789.tistory.com/category/Project/semi-project)   
    [👉시연 바로가기](https://github.com/Jenn-tech/Project/blob/master/Semi/README.md)
 ## 2.4. 파이널 프로젝트 
