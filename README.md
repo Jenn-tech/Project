@@ -34,3 +34,6 @@
    [👉시연 바로가기](https://github.com/Jenn-tech/Project/blob/master/Semi/README.md)
 ## 2.4. 파이널 프로젝트 
 - 그룹웨어(협업)
+-    [👉깃허브 바로가기]()  
+ [👉티스토리 바로가기]()   
+   [👉시연 바로가기](https://github.com/Jenn-tech/Project/blob/master/Final/README.md)
