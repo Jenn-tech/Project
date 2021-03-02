@@ -100,7 +100,7 @@ DoubleU 그룹웨어
 # 2. 화면 설계
 
 ## 2.1. 게시물 등록화면
-<img src ='img/insert.jpg'>
+<img src ='img/insert.JPG'>
 
 - 카테고리 선택가능
 - 시세보기 창이 팝업창으로 뜨며 검색이 가능하다
@@ -111,7 +111,7 @@ DoubleU 그룹웨어
 <br><br><br><br>
 
 ## 2.2. 시세검색
-<img src ='img/pricerange.jpg'>
+<img src ='img/pricerange.JPG'>
 
 - 상품을 입력하면 그래프가 출력
 - 상품의 평균가격을 출력
@@ -120,7 +120,7 @@ DoubleU 그룹웨어
 <br><br><br><br>
 
 ## 2.3. 게시물 조회화면
-<img src ='img/select.jpg'>
+<img src ='img/select.JPG'>
 
 - 찜 목록 버튼을 누르면 찜리스트 출력
 - 시세확인 버튼을 누르면 시세확인 창으로 넘어간다
@@ -133,7 +133,7 @@ DoubleU 그룹웨어
 <br><br><br><br>
 
 ## 2.4. 찜목록 
-<img src ='img/diblist.jpg'>
+<img src ='img/diblist.JPG'>
 
 - 찜목록을 누르면 모달창으로 리스트가 뜸
 - 리스트를 클릭하면 상품의 상세페이지로 이동
@@ -142,7 +142,7 @@ DoubleU 그룹웨어
 <br><br><br><br>
 
 ## 2.5. 게시물 상세화면
-<img src ='img/view.jpg'>
+<img src ='img/view.JPG'>
 
 - 카테고리, 작성자, 날짜, 조회수는 테이블형식으로 출력
 - 제품명,가격, 찜을 볼 수 있다
@@ -152,7 +152,7 @@ DoubleU 그룹웨어
 <br><br><br><br>
 
 ## 2.6. 계좌 보기
-<img src ='img/account.jpg'>
+<img src ='img/account.JPG'>
 
 - 계좌번호와 이름이 각각 모달창으로 출력
 
